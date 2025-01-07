@@ -1,0 +1,21 @@
+.kutu{
+  background-color: yellow;
+  padding: 5px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.kutu1,.kutu2,.kutu3{
+  color: white;
+  width: 345px;
+  background-color: blue;
+  margin: 5px;
+}
+.kutu1{
+  height: 75px;
+}
+.kutu2{
+  height: 100px;
+}
+.kutu3{
+  height: 30px;
+}

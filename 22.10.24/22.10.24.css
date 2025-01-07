@@ -1,0 +1,34 @@
+.kutu{
+  padding: 50px;
+  height: 250px;
+  width: 100%;
+  background-color: lightslategray;
+}
+.Kategori1{
+  margin: 20px;
+  border: 1px dotted rgb(255, 255, 255);
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+.Kategori2{
+  margin: 20px;
+  border: 1px dotted rgb(255, 255, 255);
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+.Kategori3{
+  margin: 20px;
+  border: 1px dotted rgb(255, 255, 255);
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+a{
+  color: darkred;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
